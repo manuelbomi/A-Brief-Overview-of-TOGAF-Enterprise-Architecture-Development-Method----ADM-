@@ -1,4 +1,4 @@
-# A Brief Overview of TOGAF Architecture Development Method -- ADM + Capabilities
+# A Brief Overview of TOGAF Enterprise Architecture Development Method (ADM)-- ADM + Capabilities
 
 #### ADM stands for Architecture Development Method. It is the core, step-by-step method of TOGAF (The Open Group Architecture Framework) used by Enterprise Architects to design, govern, and evolve enterprise architectures in a structured, repeatable way.
 ---
