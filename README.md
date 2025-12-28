@@ -353,21 +353,9 @@ E → D → C → B
 | G | Govern delivery |
 | H | Adapt to change |
 
-## ADM + Business Capability Modeling (Key Insight)
 
-### **Capabilities are the stable anchor across all ADM phases**
 
-| ADM Phase | Role of Capabilities |
-|-----------|----------------------|
-| **A** | Communicate value |
-| **B** | Define what the business needs |
-| **C** | Map data & apps to capabilities |
-| **D** | Map platforms & infrastructure |
-| **E–F** | Prioritize investments |
-| **G** | Govern delivery |
-| **H** | Adapt to change |
-
-# Business Capabilities: The TOGAF ADM Anchor
+## Business Capabilities: The TOGAF ADM Anchor
 
 ## **Key Insight:** Capabilities are the stable anchor across all ADM phases
 
