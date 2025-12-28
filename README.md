@@ -383,8 +383,6 @@ E → D → C → B
 
 
 
-
-
 ### Thank you for reading
 ---
 
