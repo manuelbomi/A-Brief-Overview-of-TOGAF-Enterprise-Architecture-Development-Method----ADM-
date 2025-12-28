@@ -190,6 +190,33 @@ E → D → C → B
 
 - High-level capability view
 
+---
+
+### 🟢 Phase B: Business Architecture – What the Business Must Be Able to Do
+
+
+#### <ins>Purpose</ins>:
+
+- Define business capabilities
+
+- Model value streams and domains
+
+- Identify organizational impacts
+
+
+#### <ins>Outputs</ins>:
+
+- Business Capability Model
+
+- Value Streams
+
+- Business Information Map
+
+> [!TIP]
+> Capabilities live here
+>
+
+---
 
 
 
