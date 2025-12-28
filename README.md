@@ -63,3 +63,29 @@ ADM is iterative, not linear. Architects loop through phases as strategy, techno
 
 
 ```
+
+```python
+[Preliminary]
+     ↓
+[Phase A: Architecture Vision]
+     ↓
+[Phase B: Business Architecture]
+     ↓
+[Phase C: Data & Application Architecture]
+     ↓
+[Phase D: Technology Architecture]
+     ↓
+[Phase E: Opportunities & Solutions]
+     ↓
+[Phase F: Migration Planning]
+     ↓
+[Phase G: Implementation Governance]
+     ↓
+[Phase H: Architecture Change Management]
+     ↺ (feeds back into Phase A)
+```
+
+> [!IMPORTANT]
+> This is not waterfall — the Architect loops back whenever strategy or execution changes.
+> 
+
