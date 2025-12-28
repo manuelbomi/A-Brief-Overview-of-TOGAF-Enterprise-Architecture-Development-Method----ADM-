@@ -379,18 +379,9 @@ E → D → C → B
 5. **Communication:** Common language for business and IT
 
 
-ADM + Business Capability Modeling (Key Insight)
-Capabilities are the stable anchor across all ADM phases
 
-ADM Phase    | Role of Capabilities
--------------|-------------------------
-A            | Communicate value
-B            | Define what the business needs
-C            | Map data & apps to capabilities
-D            | Map platforms & infrastructure
-E–F          | Prioritize investments
-G            | Govern delivery
-H            | Adapt to change
+**Capabilities are the stable anchor across all ADM phases**
+
 
 
 
