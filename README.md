@@ -28,9 +28,9 @@
 - Continuously improved
 ---
 
-The TOGAF ADM Cycle
+## The TOGAF ADM Cycle
 
-ADM is iterative, not linear. Architects loop through phases as strategy, technology, or delivery changes.
+##### ADM is iterative, not linear. Architects loop through phases as strategy, technology, or delivery changes.
 
 ```python
                   ┌─────────────────────┐
@@ -87,5 +87,67 @@ ADM is iterative, not linear. Architects loop through phases as strategy, techno
 
 > [!IMPORTANT]
 > This is not waterfall — the Architect loops back whenever strategy or execution changes.
+>
+
+---
+
+## ADM Redrawn — With “Why / What / How / Deliver” Lens
+
+```python
+WHY
+ └─ Phase A: Vision & Outcomes
+
+WHAT (Business)
+ └─ Phase B: Capabilities & Value Streams
+
+WHAT (Systems)
+ └─ Phase C: Data, AI, Applications
+
+HOW (Technology)
+ └─ Phase D: Platforms, Cloud, GPU, MLOps
+
+WHAT TO BUILD
+ └─ Phase E: Solution Options
+
+WHEN
+ └─ Phase F: Roadmaps & Sequencing
+
+GOVERN
+ └─ Phase G: Ensure Correct Delivery
+
+EVOLVE
+ └─ Phase H: Adapt to Change
+
+```
+
+<ins>Iteration</ins>
+
+- Teams can move backward or forward
+
+- Change can enter at any phase
+
+```python
+Preliminary
+     ↑
+H ←------- G
+↑            ↓
+F   Architecture   A
+↑     Vision        ↓
+E → D → C → B
+
+```
+
+<ins>Central Anchor</ins>
+
+- Architecture Vision & Capabilities sit at the center
+
+- Everything else supports or evolves from them
+
+
+> [!NOTE]
+> ADM starts with vision, anchors on business capabilities, designs data and technology around them, governs delivery, and continuously adapts as strategy changes.
 > 
+
+
+
 
