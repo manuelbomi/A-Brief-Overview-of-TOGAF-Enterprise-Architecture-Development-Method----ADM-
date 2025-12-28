@@ -343,6 +343,70 @@ E → D → C → B
 #### Capabilities are the stable anchor across all ADM phases
 
 
+| ADM Phase | Role of Capabilities |
+|-----------|----------------------|
+| A | Communicate value |
+| B | Define what the business needs |
+| C | Map data & apps to capabilities |
+| D | Map platforms & infrastructure |
+| E–F | Prioritize investments |
+| G | Govern delivery |
+| H | Adapt to change |
+
+## ADM + Business Capability Modeling (Key Insight)
+
+### **Capabilities are the stable anchor across all ADM phases**
+
+| ADM Phase | Role of Capabilities |
+|-----------|----------------------|
+| **A** | Communicate value |
+| **B** | Define what the business needs |
+| **C** | Map data & apps to capabilities |
+| **D** | Map platforms & infrastructure |
+| **E–F** | Prioritize investments |
+| **G** | Govern delivery |
+| **H** | Adapt to change |
+
+# Business Capabilities: The TOGAF ADM Anchor
+
+## **Key Insight:** Capabilities are the stable anchor across all ADM phases
+
+| TOGAF ADM Phase | Role of Business Capabilities | Example Activities |
+|-----------------|-------------------------------|---------------------|
+| **A: Architecture Vision** | Communicate value of architecture initiatives | • Map capabilities to strategic goals<br>• Show capability gaps to stakeholders |
+| **B: Business Architecture** | Define what the business needs to operate | • Create capability maps<br>• Assess capability maturity |
+| **C: Information Systems Architecture** | Map data and applications to capabilities | • Link applications to capabilities they support<br>• Define data requirements per capability |
+| **D: Technology Architecture** | Map platforms and infrastructure to capabilities | • Align technology stacks to capability needs<br>• Define infrastructure requirements |
+| **E: Opportunities & Solutions** | Prioritize investments based on capability impact | • Analyze capability gaps<br>• Prioritize projects by capability improvement |
+| **F: Migration Planning** | Plan capability evolution over time | • Create capability-based migration plan<br>• Define interim capability states |
+| **G: Implementation Governance** | Govern delivery of capability improvements | • Monitor capability delivery<br>• Ensure architectural compliance |
+| **H: Architecture Change Management** | Adapt capabilities to changing business needs | • Update capability models<br>• Manage capability lifecycle |
+
+
+### Benefits of Capability-Centric ADM:
+1. **Alignment:** Ensures technology investments support business needs
+2. **Stability:** Capabilities change slower than technologies
+3. **Traceability:** Clear line from strategy to implementation
+4. **Governance:** Consistent framework for decision-making
+5. **Communication:** Common language for business and IT
+
+
+ADM + Business Capability Modeling (Key Insight)
+Capabilities are the stable anchor across all ADM phases
+
+ADM Phase    | Role of Capabilities
+-------------|-------------------------
+A            | Communicate value
+B            | Define what the business needs
+C            | Map data & apps to capabilities
+D            | Map platforms & infrastructure
+E–F          | Prioritize investments
+G            | Govern delivery
+H            | Adapt to change
+
+
+
+
 
 
 
