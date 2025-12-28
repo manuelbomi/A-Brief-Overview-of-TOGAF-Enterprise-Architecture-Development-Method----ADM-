@@ -146,7 +146,31 @@ E → D → C → B
 
 > [!NOTE]
 > ADM starts with vision, anchors on business capabilities, designs data and technology around them, governs delivery, and continuously adapts as strategy changes.
-> 
+>
+
+
+---
+
+## ADM Phases 
+### 🟣 Preliminary Phase – Set the Rules
+
+#### <ins>Purpose</ins>:
+
+- Establish EA governance
+
+- Define principles, standards, tooling
+
+- Align EA with business and IT governance
+
+#### <ins>Outputs</ins>:
+
+- Architecture principles
+
+- EA operating model
+
+- Architecture repository
+
+
 
 
 
