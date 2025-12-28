@@ -241,6 +241,109 @@ E → D → C → B
 
 ---
 
+### 🟠 Phase D: Technology Architecture – How It Runs
+
+#### <ins>Purpose</ins>:
+
+- Define infrastructure, cloud, GPU, MLOps, platforms
+
+
+#### <ins>Outputs</ins>:
+
+- Platform architectures
+
+- Cloud/GPU stacks
+
+- DevOps & MLOps tooling
+
+---
+
+### 🔴 Phase E: Opportunities & Solutions – What We Will Build
+
+#### <ins>Purpose</ins>:
+
+- Identify solution options
+
+- Package capabilities into initiatives
+
+#### <ins>Outputs</ins>:
+
+- Solution architectures
+
+- Transition architectures
+
+- Roadmaps
+
+---
+
+### ⚫ Phase F: Migration Planning – When & In What Order
+
+#### <ins>Purpose</ins>:
+
+- Prioritize initiatives
+
+- Align with funding and delivery
+
+#### <ins>Outputs</ins>:
+
+- Migration roadmap
+
+- Work packages
+
+- Investment sequencing
+
+---
+
+### 🟤 Phase G: Implementation Governance – Build It Right
+
+#### <ins>Purpose</ins>:
+
+- Ensure delivery aligns with architecture
+
+#### <ins>Outputs</ins>:
+
+- Architecture compliance assessments
+
+- Governance checkpoints
+
+---
+
+### 🟤 Phase H: Architecture Change Management – Keep It Relevant
+
+#### <ins>Purpose</ins>:
+
+- Respond to change
+
+- Trigger new ADM cycles
+
+#### <ins>Outputs</ins>:
+
+- Architecture updates
+
+- Change requests
+
+---
+
+## Why ADM Matters for Data / AI / ML / Digital Transformation
+
+#### ADM ensures that:
+
+- AI initiatives are capability-driven, not tech experiments
+
+- Data platforms are enterprise assets, not project silos
+
+- MLOps and GPU investments are justified by business outcomes
+
+- Architecture evolves with strategy, not after delivery
+
+---
+
+## ADM + Business Capability Modeling (Key Insight)
+
+#### Capabilities are the stable anchor across all ADM phases
+
+
+
 
 
 
