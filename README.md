@@ -170,6 +170,26 @@ E → D → C → B
 
 - Architecture repository
 
+---
+
+### 🔵 Phase A: Architecture Vision – Why We Are Doing This
+
+#### <ins>Purpose</ins>:
+
+- Align stakeholders
+
+- Define scope and value
+
+- Link strategy to architecture work
+
+#### <ins>Outputs</ins>:
+
+- Architecture Vision
+
+- Business outcomes & OKRs
+
+- High-level capability view
+
 
 
 
