@@ -218,6 +218,29 @@ E → D → C → B
 
 ---
 
+### 🟡 Phase C: Information Systems Architecture – Data & Applications
+
+#### Split into:
+
+- Data Architecture
+
+- Application Architecture
+
+#### <ins>Purpose</ins>:
+
+- Define how data, AI, and applications support capabilities
+
+
+#### <ins>Outputs</ins>:
+
+- Data domains, data products
+
+- Application services
+
+- AI/ML capability enablement
+
+---
+
 
 
 
