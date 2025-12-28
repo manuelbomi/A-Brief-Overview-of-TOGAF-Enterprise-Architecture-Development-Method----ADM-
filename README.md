@@ -33,12 +33,33 @@ The TOGAF ADM Cycle
 ADM is iterative, not linear. Architects loop through phases as strategy, technology, or delivery changes.
 
 ```python
-        Preliminary
-             ↑
-   H ←---------------- G
-   ↑                    ↓
-   F      Architecture     A
-   ↑        Vision         ↓
-   E → D → C → B
+                  ┌─────────────────────┐
+                  │     Preliminary     │
+                  │  (EA Setup & Rules) │
+                  └─────────▲───────────┘
+                            │
+┌───────────────┐           │           ┌───────────────┐
+│   Phase H     │◄──────────┼──────────►│   Phase A     │
+│ Change Mgmt   │           │           │ Vision & Scope│
+└───────▲───────┘           │           └───────▼───────┘
+        │                   │                   │
+┌───────┴───────┐   ┌───────┴───────┐   ┌───────┴───────┐
+│   Phase G     │   │   Architecture│   │   Phase B     │
+│ Implementation│   │     Vision    │   │ Business Arch │
+│ Governance    │   │   (Center)    │   │ Capabilities  │
+└───────▲───────┘   └───────▲───────┘   └───────▼───────┘
+        │                   │                   │
+┌───────┴───────┐           │           ┌───────┴───────┐
+│   Phase F     │◄──────────┼──────────►│   Phase C     │
+│ Migration     │           │           │ Data & Apps   │
+│ Planning      │           │           │ Architecture  │
+└───────────────┘           │           └───────▼───────┘
+                            │
+                    ┌───────┴───────┐
+                    │   Phase D     │
+                    │ Technology    │
+                    │ Architecture  │
+                    └───────────────┘
+
 
 ```
