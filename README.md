@@ -6,7 +6,6 @@
 ## What ADM Is 
 
 ##### ADM is the operating system for Enterprise Architecture.
-
 ##### <ins>It answers</ins>:
 
 - What architecture work should be done?
