@@ -11,6 +11,7 @@
 - What architecture work should be done?
 
 - In what order?
+  
 
 - With what inputs and outputs?
 
