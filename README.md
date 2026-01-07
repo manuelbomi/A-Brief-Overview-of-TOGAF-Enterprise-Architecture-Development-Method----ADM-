@@ -3,7 +3,7 @@
 #### ADM stands for Architecture Development Method. It is the core, step-by-step method of TOGAF (The Open Group Architecture Framework) used by Enterprise Architects to design, govern, and evolve enterprise architectures in a structured, repeatable way.
 ---
 
-## What ADM Is 
+## What ADM Is
 
 ##### ADM is the operating system for Enterprise Architecture.
 ##### <ins>It answers</ins>:
