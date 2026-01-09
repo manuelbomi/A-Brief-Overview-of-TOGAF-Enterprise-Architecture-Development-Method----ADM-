@@ -64,7 +64,7 @@
 
 ```
 
-```python
+```mermaid
 [Preliminary]
      ↓
 [Phase A: Architecture Vision]
