@@ -65,25 +65,23 @@
 ```
 
 ```mermaid
-[Preliminary]
-     ↓
-[Phase A: Architecture Vision]
-     ↓
-[Phase B: Business Architecture]
-     ↓
-[Phase C: Data & Application Architecture]
-     ↓
-[Phase D: Technology Architecture]
-     ↓
-[Phase E: Opportunities & Solutions]
-     ↓
-[Phase F: Migration Planning]
-     ↓
-[Phase G: Implementation Governance]
-     ↓
-[Phase H: Architecture Change Management]
-     ↺ (feeds back into Phase A)
+flowchart TD
+
+P[Preliminary]
+A[Phase A: Architecture Vision]
+B[Phase B: Business Architecture]
+C[Phase C: Data & Application Architecture]
+D[Phase D: Technology Architecture]
+E[Phase E: Opportunities & Solutions]
+F[Phase F: Migration Planning]
+G[Phase G: Implementation Governance]
+H[Phase H: Architecture Change Management]
+
+P --> A --> B --> C --> D --> E --> F --> G --> H
+H --> A
+
 ```
+
 
 > [!IMPORTANT]
 > This is not waterfall — the Architect loops back whenever strategy or execution changes.
